@@ -477,7 +477,7 @@ def mafia():
                 print(logo)
                 love("Welcome To BlackMafia WhatsApp Group")
                 time.sleep(5)
-                os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi")
+                os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi')
         elif black =="X" or black =="x":
                 clear()
                 print(logo)
