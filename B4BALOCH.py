@@ -353,7 +353,7 @@ def mafia():
                 print (logo)
                 love("\033[1;93mCongratulations Cobra Tool Has Been Installed Successfully")
                 love("Now you can open this tool as usual")
-                love("\033[1;95mTool User Name Cobra  Password lovehacker")
+                love("\033[1;95mTool Dont Have Username And Password Enjoy But Use 786786 Pass Or Username On My Tool Thanks")
                 time.sleep(5)
                 os.system("cd $HOME/Cobra && python2 Scorpion.py")
         elif black =="M" or black =="m":
