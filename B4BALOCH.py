@@ -218,7 +218,7 @@ def menu():
     time.sleep(0.0005)
     os.system('echo [V]  Install Termux TBomb------- Tool ----● | lolcat --animate')
     time.sleep(0.0005)
-    os.system('echo [W]  BlackMafia WhatsApp Group------------● | lolcat --animate')
+    os.system('echo [W]  B4 BALOCH M4 MASTER WhatsApp Group------------● | lolcat --animate')
     time.sleep(0.0005)
     os.system('echo [X]  BlackMafia Dragon404 New Update -----● | lolcat -a -F 0.01')
     time.sleep(0.0005)
@@ -477,7 +477,7 @@ def mafia():
                 print(logo)
                 love("Welcome To BlackMafia WhatsApp Group")
                 time.sleep(5)
-                os.system('xdg-open https://chat.whatsapp.com/KqZxaNUAER5CCC6ucjKnPo')
+                os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi")
         elif black =="X" or black =="x":
                 clear()
                 print(logo)
