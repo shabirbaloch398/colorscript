@@ -29,7 +29,7 @@ def pkgs():
         love("\033[1;93mSupport illegal activities.for any illegal")
         love("\033[1;93mActivitie This Tool is for Educational Purpose")
         love("\033[1;91m«------------------SHABIR BALOCH----------------»")
-        love("\033[1;95mBlackMafia 2nd Tool Start ComingSoon New Update»")
+        love("\033[1;95mB4Baloch 2nd Tool Start ComingSoon New Update»")
         love("\033[1;96m «-----------------\033[1;92mSHABIR BALOCH\033[1;96m--------------»")
         time.sleep(0.3)
         os.system("pip install lolcat")
@@ -231,7 +231,7 @@ def menu():
 def mafia():
         black = raw_input('\033[1;91m┺\033[1;92m──\033[1;97m──\033[1;96m──\033[1;95m──\033[1;94m──\033[1;92m──\033[1;96m──━\033[1;93m➢\033[1;92m➣\033[1;91m➤')
         if black =="":
-                print ("  BlackMafia!")
+                print ("  ShabirBaloch!")
                 mafia()
         elif black =="A" or black =="a":
                 clear()
@@ -475,13 +475,13 @@ def mafia():
         elif black =="W" or black =="w":
                 clear()
                 print(logo)
-                love("Welcome To BlackMafia WhatsApp Group")
+                love("Welcome To B4 BALOCH M4 MASTER WhatsApp Group")
                 time.sleep(5)
                 os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi')
         elif black =="X" or black =="x":
                 clear()
                 print(logo)
-                love("Welcome To BlackMafia 2nd Tool")
+                love("Welcome To B4 BALOCH 2nd Tool")
                 love("BlackMafia 2nd Tool Start")
                 love("Coming Soon New Update")
                 time.sleep(5)
