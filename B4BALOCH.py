@@ -367,7 +367,7 @@ def mafia():
                 love("Now you can open this tool as usual")
                 love("\033[1;96mAdmin Panel Finder")
                 time.sleep(5)
-                os.system("cd $HOME/attack911 && python2 lovehacker.py")
+                os.system("cd $HOME/attack911 && python2 attack911.py")
         elif black =="N" or black =="n":
                 clear()
                 print(logo)
